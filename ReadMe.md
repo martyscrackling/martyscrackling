@@ -1,4 +1,4 @@
-<img width="1358" height="1622" alt="image" src="https://github.com/user-attachments/assets/3be19faf-2a65-43ae-980b-0d5bb4f48f8d" />
+<!-- <img width="1358" height="1622" alt="image" src="https://github.com/user-attachments/assets/3be19faf-2a65-43ae-980b-0d5bb4f48f8d" /> -->
 
 
 Claim offer
