@@ -1,29 +1,32 @@
-# Ma. Ericha Guanzon
-**Computer Science, 3rd Year** · Western Mindanao State University · Zamboanga City, PH
+<h1 align="center">✨ Ma. Ericha Guanzon ✨</h1>
 
-`Full-Stack Web` `UI/UX Design` `Building in Public`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Designer;Building+in+Public;3rd+Year+CS+Student" alt="Typing SVG" />
+</p>
 
----
-
-> I build things that look good *and* work well — bridging the gap between design and engineering. Currently focused on crafting personal projects that sharpen my full-stack skills and push my eye for interface design.
-
----
-
-### What I work with
-
-| Languages | Frontend | Backend & Data | Design & Tools |
-|-----------|----------|----------------|----------------|
-| Python · JavaScript · PHP · Dart · C++ · HTML/CSS | TailwindCSS · Bootstrap · React Native · Flutter | Laravel · Django · FastAPI · MySQL · PostgreSQL · Supabase | Figma · Adobe Suite · Git · Postman · Notion |
+<p align="center">
+  <img src="https://img.shields.io/badge/Zamboanga_City-Philippines-red?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Western_Mindanao_State_University-CS_Student-8A2BE2?style=flat-square&logo=graduation-cap&logoColor=white" />
+</p>
 
 ---
 
-### Currently
-→ Designing and shipping personal full-stack projects end-to-end  
-→ Deepening my UI/UX craft — from wireframes to polished interfaces  
-→ Exploring the intersection of good design and clean engineering  
+### 🎯 About Me
 
----
-
-[LinkedIn](https://linkedin.com/in/ma-ericha-guanzon-626918298) · [Instagram](https://instagram.com/maaariyaaaah) · [Facebook](https://facebook.com/mariiyaaaah)
-
-*Open to feedback & collaboration.*
+```python
+class MaEricha:
+    def __init__(self):
+        self.role = "Full-Stack Developer & UI/UX Designer"
+        self.location = "Zamboanga City, PH"
+        self.education = "BSCS @ Western Mindanao State University"
+        self.motto = "Building things that look good AND work well"
+    
+    def current_focus(self):
+        return [
+            "Shipping end-to-end full-stack projects",
+            "Mastering UI/UX from wireframes to polished interfaces",
+            "Finding the sweet spot between design and clean code"
+        ]
+    
+    def say_hi(self):
+        print("Let's build something amazing together! 🚀")
