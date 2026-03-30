@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi, I'm Ma. Ericha Guanzon 👋
+# Ma. Ericha Guanzon
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;UI%2FUX+Designer;Computer+Science+Student;Building+Modern+Web+%26+Mobile+Apps" />
 
 ---
 
-### 💻 Crafting clean code + beautiful experiences
+### Crafting clean code and beautiful experiences
 
 ---
 
@@ -21,19 +21,19 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 3rd Year Computer Science Student (WMSU)  
-💡 Full-Stack Developer focused on scalable systems  
-🎨 UI/UX Designer passionate about clean interfaces  
-⚙️ Backend & API enthusiast  
-📱 Mobile app builder (Flutter / React Native)
+3rd Year Computer Science Student at Western Mindanao State University  
+Full-Stack Developer focused on scalable systems  
+UI/UX Designer passionate about clean interfaces  
+Backend & API enthusiast  
+Mobile app builder (Flutter / React Native)
 
 > I build systems that are not just functional — but intuitive, elegant, and user-centered.
 
 ---
 
-## 🧠 Languages
+## Languages
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## ⚙️ Backend & Frameworks
+## Backend & Frameworks
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="55"/>
@@ -58,7 +58,7 @@
 
 ---
 
-## 📱 Frontend & Mobile
+## Frontend & Mobile
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55"/>
@@ -70,7 +70,7 @@
 
 ---
 
-## 🗄️ Databases & Services
+## Databases & Services
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
@@ -81,7 +81,7 @@
 
 ---
 
-## 🎨 Design & Creative Tools
+## Design & Creative Tools
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55"/>
@@ -93,7 +93,7 @@
 
 ---
 
-## 🛠️ Tools & DevOps
+## Tools & DevOps
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55"/>
@@ -106,7 +106,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -124,7 +124,7 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -134,27 +134,27 @@
 
 ---
 
-## 🌟 Currently Doing
+## Currently Working On
 
 - Full-stack development (Django, React Native)
 - UI/UX design systems in Figma
-- API development & backend optimization
+- API development and backend optimization
 - Open-source contributions
 - Real-world project building
 
 ---
 
-## 💬 Let's Connect
+## Connect With Me
 
 LinkedIn • GitHub • Instagram • Facebook  
-Open for collaboration, internships, and freelance work 🚀
+Open for collaboration, internships, and freelance work
 
 ---
 
 <div align="center">
 
-✨ Building software that blends creativity, logic, and impact ✨
+Building software that blends creativity, logic, and impact
 
-<sub>Last Updated: 2026 | Always learning, always building 🚀</sub>
+<sub>Last Updated: 2026 | Always learning, always building</sub>
 
 </div>
